@@ -1,0 +1,8 @@
+{
+  "rho": 28, 
+  "sigma": 10,
+  "beta": 2.33,
+  "dt": 0.0005,
+  "iterations": 100000,
+  "result_size": 1000
+}
