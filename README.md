@@ -1,4 +1,4 @@
-# ABOUND Starter Repo - Go
+# ABOUND Starter Repo - Node/TypeScript
 
 This is a starter repository for an ABOUND algorithm written in [TypeScript](https://www.typescriptlang.org/).
 
