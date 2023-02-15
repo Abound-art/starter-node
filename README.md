@@ -44,7 +44,7 @@ Will generate a piece of art at `output.png` that looks like this:
 
 ![An example output of the Lorenz attractor algorithm, a blue and green spiral](/example_output.png)
 
-To start implementing your algorithm, replace the `Config` struct and `run`
+To start implementing your algorithm, replace the `Config` interface and `run`
 function in [`src/algo/index.ts`](/src/algo/index.ts) with your own. It's
 also worth noting that the example algorithm produces raster images, meaning
 they're made of pixels and are output as
